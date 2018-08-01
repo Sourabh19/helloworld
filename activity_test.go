@@ -1,4 +1,4 @@
-package flogo
+package helloworld
 
 import (
 	"github.com/TIBCOSoftware/flogo-contrib/action/flow/test"
